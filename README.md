@@ -24,14 +24,13 @@ An AI-driven web application that analyzes resumes to assess candidate-job fit, 
 
 AI-Powered-Resume/
 │
-├── backend/ # Node.js + Express APIs
-├── frontend/ # React.js frontend
-├── ml/ # ML models and Python scripts
-├── database/ # DB schema and seed files
-├── devops/ # Docker, CI/CD, deployment config
-├── tests/ # Backend and ML unit tests
-├── .gitignore
-├── README.md 
+-backend/ # Node.js + Express APIs
+- frontend/ # React.js frontend
+- ml/ # ML models and Python scripts
+- database/ # DB schema and seed files
+- devops/ # Docker, CI/CD, deployment config
+- tests/ # Backend and ML unit tests
+- .gitignore-README.md 
 
 
 ## 👥 Team Roles
