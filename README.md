@@ -38,7 +38,7 @@ AI-Powered-Resume/
 - **Akassh (Lead)** – Machine Learning, Testing, Deployment
 - **Haroon** – Backend Development
 - **Madesh** – Frontend Development
-- **TBD** – Database Design and Management
+- **Abishek.k** – Database Design and Management
 - **TBD** – DevOps / CI-CD / Testing Automation
 
 ## 🛠 Getting Started
