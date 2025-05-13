@@ -23,8 +23,7 @@ An AI-driven web application that analyzes resumes to assess candidate-job fit, 
 ## 📁 Folder Structure
 
 AI-Powered-Resume/
-│
--backend/ # Node.js + Express APIs
+- backend/ # Node.js + Express APIs
 - frontend/ # React.js frontend
 - ml/ # ML models and Python scripts
 - database/ # DB schema and seed files
@@ -35,7 +34,7 @@ AI-Powered-Resume/
 
 ## 👥 Team Roles
 
-- **Akassh (Lead)** – Machine Learning, Testing, Deployment
+- **Akassh** – Machine Learning, Testing, Deployment
 - **Haroon** – Backend Development
 - **Madesh** – Frontend Development
 - **Abishek.k** – Database Design and Management
