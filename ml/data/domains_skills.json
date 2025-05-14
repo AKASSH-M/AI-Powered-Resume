@@ -1,0 +1,128 @@
+{
+    "Web Development": {
+        "html": 1,
+        "css": 1,
+        "javascript": 2,
+        "react": 3,
+        "node": 2,
+        "express": 2,
+        "typescript": 3,
+        "nextjs": 3,
+        "webpack": 2,
+        "frontend": 1,
+        "backend": 1
+    },
+    "Data Science": {
+        "python": 2,
+        "machine learning": 3,
+        "deep learning": 3,
+        "pandas": 2,
+        "numpy": 2,
+        "scikit-learn": 2,
+        "tensorflow": 3,
+        "pytorch": 3,
+        "statistics": 2,
+        "data analysis": 2,
+        "matplotlib": 1,
+        "seaborn": 1
+    },
+    "Android Development": {
+        "android": 2,
+        "kotlin": 3,
+        "java": 2,
+        "xml": 1,
+        "jetpack": 3,
+        "firebase": 2
+    },
+    "Cloud/DevOps": {
+        "aws": 3,
+        "azure": 3,
+        "docker": 2,
+        "kubernetes": 3,
+        "jenkins": 2,
+        "ci/cd": 2,
+        "devops": 1,
+        "terraform": 3,
+        "cloud": 1
+    },
+    "Cybersecurity": {
+        "cyber": 1,
+        "security": 2,
+        "network": 2,
+        "vulnerability": 2,
+        "ethical hacking": 3,
+        "penetration testing": 3,
+        "nmap": 1,
+        "wireshark": 1,
+        "firewall": 2
+    },
+    "Competitive Programming": {
+        "leetcode": 2,
+        "codeforces": 2,
+        "codechef": 2,
+        "dynamic programming": 3,
+        "graph": 3,
+        "dfs": 2,
+        "bfs": 2,
+        "recursion": 1
+    },
+    "Literature": {
+        "poetry": 2,
+        "fiction": 2,
+        "literary criticism": 3,
+        "essay writing": 2,
+        "creative writing": 3,
+        "novel analysis": 2,
+        "shakespeare": 2
+    },
+    "Law": {
+        "criminal law": 3,
+        "civil law": 3,
+        "constitutional law": 2,
+        "legal writing": 2,
+        "litigation": 2,
+        "contracts": 2,
+        "intellectual property": 3
+    },
+    "Architecture": {
+        "autocad": 2,
+        "revit": 3,
+        "sketchup": 2,
+        "design principles": 2,
+        "building codes": 2,
+        "urban planning": 3
+    },
+    "Commerce / B.Com": {
+        "accounting": 2,
+        "tally": 2,
+        "gst": 2,
+        "auditing": 3,
+        "financial management": 3,
+        "cost accounting": 2,
+        "excel": 2
+    },
+    "Physics": {
+        "quantum mechanics": 3,
+        "thermodynamics": 2,
+        "optics": 2,
+        "relativity": 3,
+        "statistical mechanics": 2,
+        "experimental physics": 2
+    },
+    "Biology": {
+        "genetics": 3,
+        "microbiology": 2,
+        "biochemistry": 2,
+        "molecular biology": 3,
+        "ecology": 1,
+        "cell biology": 2
+    },
+    "Chemistry": {
+        "organic chemistry": 2,
+        "inorganic chemistry": 2,
+        "analytical chemistry": 2,
+        "spectroscopy": 3,
+        "reaction mechanism": 3,
+        "chromatography": 2
+    }
+}
