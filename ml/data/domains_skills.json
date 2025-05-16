@@ -60,6 +60,10 @@
         "leetcode": 2,
         "codeforces": 2,
         "codechef": 2,
+        "hackerrank": 2,
+        "codingNinjas": 1,
+        "data structures": 3,
+        "algorithms": 3,
         "dynamic programming": 3,
         "graph": 3,
         "dfs": 2,
@@ -124,5 +128,1380 @@
         "spectroscopy": 3,
         "reaction mechanism": 3,
         "chromatography": 2
+    },
+    "Artificial Intelligence": {
+        "natural language processing": 3,
+        "computer vision": 3,
+        "reinforcement learning": 2,
+        "ai ethics": 2,
+        "generative ai": 3,
+        "mlops": 2
+    },
+    "Blockchain": {
+        "smart contracts": 3,
+        "ethereum": 2,
+        "bitcoin": 2,
+        "solidity": 3,
+        "cryptography": 2,
+        "decentralized apps": 3
+    },
+    "Game Development": {
+        "unity": 3,
+        "unreal engine": 3,
+        "c#": 2,
+        "game physics": 2,
+        "3d modeling": 2,
+        "level design": 2
+    },
+    "IoT": {
+        "arduino": 2,
+        "raspberry pi": 2,
+        "mqtt": 2,
+        "sensor integration": 3,
+        "iot security": 3,
+        "edge computing": 2
+    },
+    "Robotics": {
+        "ros": 3,
+        "embedded systems": 2,
+        "servo motors": 2,
+        "computer vision": 3,
+        "path planning": 2
+    },
+    "Augmented Reality": {
+        "arkit": 3,
+        "arcore": 3,
+        "unity ar": 2,
+        "3d rendering": 2,
+        "spatial mapping": 3
+    },
+    "Virtual Reality": {
+        "oculus sdk": 3,
+        "vr design": 2,
+        "motion tracking": 2,
+        "unity vr": 3,
+        "immersive storytelling": 2
+    },
+    "Data Engineering": {
+        "apache spark": 3,
+        "hadoop": 2,
+        "etl pipelines": 2,
+        "data lakes": 3,
+        "airflow": 2
+    },
+    "Quantum Computing": {
+        "qiskit": 3,
+        "quantum algorithms": 3,
+        "qubits": 2,
+        "quantum gates": 2,
+        "quantum cryptography": 3
+    },
+    "DevSecOps": {
+        "security automation": 3,
+        "vulnerability scanning": 2,
+        "secure ci/cd": 2,
+        "incident response": 3,
+        "compliance": 2
+    },
+    "Network Administration": {
+        "cisco networking": 2,
+        "tcp/ip": 2,
+        "network security": 3,
+        "routing protocols": 2,
+        "sdn": 3
+    },
+    "Embedded Systems": {
+        "c programming": 2,
+        "microcontrollers": 2,
+        "rtos": 3,
+        "firmware development": 2,
+        "hardware interfacing": 2
+    },
+    "API Development": {
+        "rest apis": 2,
+        "graphql": 3,
+        "api security": 2,
+        "postman": 1,
+        "api documentation": 2
+    },
+    "UI/UX Design": {
+        "wireframing": 2,
+        "prototyping": 2,
+        "figma": 3,
+        "user testing": 2,
+        "interaction design": 3
+    },
+    "Bioinformatics": {
+        "sequence analysis": 3,
+        "genomics": 2,
+        "proteomics": 2,
+        "biopython": 2,
+        "computational biology": 3
+    },
+    "Astronomy": {
+        "astrophysics": 3,
+        "telescopy": 2,
+        "orbital mechanics": 2,
+        "cosmology": 3,
+        "stellar evolution": 2
+    },
+    "Geology": {
+        "mineralogy": 2,
+        "petrology": 2,
+        "seismology": 3,
+        "stratigraphy": 2,
+        "geomorphology": 2
+    },
+    "Environmental Science": {
+        "climate modeling": 3,
+        "pollution control": 2,
+        "sustainability": 2,
+        "ecology": 1,
+        "environmental policy": 2
+    },
+    "Neuroscience": {
+        "neuroimaging": 3,
+        "cognitive neuroscience": 2,
+        "neural networks": 3,
+        "brain mapping": 2,
+        "neuroanatomy": 2
+    },
+    "Biotechnology": {
+        "gene editing": 3,
+        "crispr": 3,
+        "bioprocessing": 2,
+        "synthetic biology": 3,
+        "bioethics": 2
+    },
+    "Pharmacology": {
+        "drug development": 3,
+        "pharmacokinetics": 2,
+        "toxicology": 2,
+        "clinical trials": 3,
+        "drug delivery": 2
+    },
+    "Material Science": {
+        "nanotechnology": 3,
+        "polymer science": 2,
+        "crystallography": 2,
+        "material characterization": 3,
+        "composites": 2
+    },
+    "Meteorology": {
+        "weather forecasting": 2,
+        "atmospheric dynamics": 3,
+        "climate science": 2,
+        "remote sensing": 2,
+        "hydrometeorology": 2
+    },
+    "Oceanography": {
+        "marine biology": 2,
+        "ocean circulation": 3,
+        "chemical oceanography": 2,
+        "physical oceanography": 3,
+        "marine geology": 2
+    },
+    "Biophysics": {
+        "molecular dynamics": 3,
+        "protein folding": 3,
+        "biomechanics": 2,
+        "spectroscopy": 2,
+        "membrane biophysics": 2
+    },
+    "Psychology": {
+        "cognitive psychology": 2,
+        "behavioral analysis": 2,
+        "clinical psychology": 3,
+        "neuropsychology": 3,
+        "psychological research": 2
+    },
+    "Sociology": {
+        "social theory": 2,
+        "quantitative research": 2,
+        "qualitative research": 2,
+        "social stratification": 3,
+        "cultural sociology": 2
+    },
+    "Anthropology": {
+        "cultural anthropology": 2,
+        "archaeology": 2,
+        "ethnography": 3,
+        "physical anthropology": 2,
+        "linguistic anthropology": 2
+    },
+    "History": {
+        "ancient history": 2,
+        "medieval history": 2,
+        "modern history": 2,
+        "historiography": 3,
+        "archival research": 2
+    },
+    "Philosophy": {
+        "ethics": 2,
+        "metaphysics": 3,
+        "epistemology": 3,
+        "logic": 2,
+        "philosophy of science": 2
+    },
+    "Political Science": {
+        "political theory": 2,
+        "international relations": 3,
+        "comparative politics": 2,
+        "public policy": 2,
+        "political economy": 3
+    },
+    "Economics": {
+        "microeconomics": 2,
+        "macroeconomics": 2,
+        "econometrics": 3,
+        "game theory": 3,
+        "behavioral economics": 2
+    },
+    "Linguistics": {
+        "phonetics": 2,
+        "syntax": 3,
+        "semantics": 2,
+        "sociolinguistics": 2,
+        "computational linguistics": 3
+    },
+    "Education": {
+        "curriculum design": 2,
+        "pedagogy": 2,
+        "educational psychology": 3,
+        "assessment methods": 2,
+        "e-learning": 2
+    },
+    "Geography": {
+        "human geography": 2,
+        "physical geography": 2,
+        "cartography": 2,
+        "geopolitics": 3,
+        "urban geography": 2
+    },
+    "Film Studies": {
+        "cinematography": 2,
+        "film editing": 2,
+        "screenwriting": 3,
+        "film theory": 2,
+        "directing": 3
+    },
+    "Music Production": {
+        "audio engineering": 2,
+        "midi programming": 2,
+        "mixing": 3,
+        "mastering": 3,
+        "daw": 2
+    },
+    "Photography": {
+        "portrait photography": 2,
+        "landscape photography": 2,
+        "photo editing": 2,
+        "lighting techniques": 3,
+        "composition": 2
+    },
+    "Animation": {
+        "2d animation": 2,
+        "3d animation": 3,
+        "storyboarding": 2,
+        "motion graphics": 2,
+        "character design": 3
+    },
+    "Theater Arts": {
+        "acting": 2,
+        "directing": 3,
+        "stage design": 2,
+        "playwriting": 3,
+        "theater history": 2
+    },
+    "Visual Arts": {
+        "painting": 2,
+        "sculpture": 2,
+        "drawing": 1,
+        "art history": 2,
+        "mixed media": 3
+    },
+    "Fashion Design": {
+        "pattern making": 2,
+        "textile design": 2,
+        "fashion illustration": 2,
+        "sustainable fashion": 3,
+        "garment construction": 2
+    },
+    "Interior Design": {
+        "space planning": 2,
+        "color theory": 1,
+        "3d rendering": 2,
+        "furniture design": 2,
+        "lighting design": 3
+    },
+    "Dance": {
+        "choreography": 3,
+        "ballet": 2,
+        "contemporary dance": 2,
+        "dance theory": 2,
+        "performance": 3
+    },
+    "Illustration": {
+        "digital illustration": 2,
+        "concept art": 3,
+        "storyboarding": 2,
+        "traditional drawing": 1,
+        "vector art": 2
+    },
+    "Marketing": {
+        "digital marketing": 2,
+        "seo": 2,
+        "content marketing": 2,
+        "social media strategy": 3,
+        "analytics": 2
+    },
+    "Finance": {
+        "financial modeling": 3,
+        "investment analysis": 2,
+        "risk management": 3,
+        "corporate finance": 2,
+        "portfolio management": 2
+    },
+    "Entrepreneurship": {
+        "business planning": 2,
+        "startup funding": 3,
+        "market research": 2,
+        "pitching": 2,
+        "scaling strategies": 3
+    },
+    "Human Resources": {
+        "recruitment": 2,
+        "employee engagement": 2,
+        "performance management": 2,
+        "hr analytics": 3,
+        "labor laws": 2
+    },
+    "Supply Chain Management": {
+        "logistics": 2,
+        "inventory management": 2,
+        "supply chain optimization": 3,
+        "procurement": 2,
+        "demand forecasting": 3
+    },
+    "Project Management": {
+        "agile methodology": 2,
+        "scrum": 2,
+        "pmp certification": 3,
+        "risk assessment": 2,
+        "stakeholder management": 2
+    },
+    "Business Analytics": {
+        "data visualization": 2,
+        "predictive analytics": 3,
+        "business intelligence": 2,
+        "tableau": 2,
+        "power bi": 2
+    },
+    "Operations Management": {
+        "lean manufacturing": 2,
+        "six sigma": 3,
+        "process optimization": 2,
+        "quality control": 2,
+        "supply chain integration": 2
+    },
+    "Strategic Management": {
+        "swot analysis": 2,
+        "competitive strategy": 3,
+        "business modeling": 2,
+        "corporate strategy": 3,
+        "change management": 2
+    },
+    "Retail Management": {
+        "merchandising": 2,
+        "store operations": 2,
+        "customer experience": 2,
+        "inventory control": 2,
+        "retail analytics": 3
+    },
+    "Advertising": {
+        "campaign planning": 2,
+        "copywriting": 2,
+        "media buying": 3,
+        "brand management": 2,
+        "ad analytics": 2
+    },
+    "Risk Management": {
+        "risk assessment": 2,
+        "crisis management": 3,
+        "compliance": 2,
+        "risk modeling": 3,
+        "insurance": 2
+    },
+    "Corporate Law": {
+        "mergers and acquisitions": 3,
+        "corporate governance": 2,
+        "contract law": 2,
+        "regulatory compliance": 3,
+        "due diligence": 2
+    },
+    "E-commerce": {
+        "shopify": 2,
+        "woocommerce": 2,
+        "digital storefront": 2,
+        "conversion optimization": 3,
+        "payment gateways": 2
+    },
+    "Real Estate": {
+        "property valuation": 2,
+        "real estate law": 2,
+        "market analysis": 2,
+        "property management": 2,
+        "real estate finance": 3
+    },
+    "Hospitality Management": {
+        "hotel operations": 2,
+        "guest services": 2,
+        "revenue management": 3,
+        "event planning": 2,
+        "hospitality marketing": 2
+    },
+    "Nonprofit Management": {
+        "fundraising": 2,
+        "grant writing": 3,
+        "program evaluation": 2,
+        "volunteer management": 2,
+        "nonprofit finance": 2
+    },
+    "International Business": {
+        "global trade": 2,
+        "cross-cultural management": 2,
+        "export/import": 2,
+        "international marketing": 3,
+        "global strategy": 3
+    },
+    "Customer Relationship Management": {
+        "salesforce": 2,
+        "customer segmentation": 2,
+        "crm analytics": 3,
+        "customer retention": 2,
+        "automation": 2
+    },
+    "Innovation Management": {
+        "design thinking": 2,
+        "product innovation": 3,
+        "r&d management": 2,
+        "innovation strategy": 3,
+        "prototyping": 2
+    },
+    "Public Health": {
+        "epidemiology": 3,
+        "biostatistics": 2,
+        "health policy": 2,
+        "disease prevention": 2,
+        "community health": 2
+    },
+    "Nursing": {
+        "patient care": 2,
+        "clinical skills": 2,
+        "nursing ethics": 2,
+        "critical care": 3,
+        "health assessment": 2
+    },
+    "Medicine": {
+        "diagnostics": 3,
+        "internal medicine": 3,
+        "surgery": 3,
+        "medical ethics": 2,
+        "pharmacology": 2
+    },
+    "Dentistry": {
+        "oral surgery": 3,
+        "orthodontics": 2,
+        "dental restoration": 2,
+        "periodontics": 2,
+        "dental diagnostics": 2
+    },
+    "Nutrition": {
+        "diet planning": 2,
+        "nutritional science": 2,
+        "clinical nutrition": 3,
+        "public health nutrition": 2,
+        "sports nutrition": 2
+    },
+    "Physical Therapy": {
+        "rehabilitation": 2,
+        "musculoskeletal therapy": 2,
+        "neurological therapy": 3,
+        "exercise prescription": 2,
+        "manual therapy": 2
+    },
+    "Mental Health": {
+        "counseling": 2,
+        "psychotherapy": 3,
+        "cognitive behavioral therapy": 3,
+        "mental health assessment": 2,
+        "crisis intervention": 2
+    },
+    "Pharmacy": {
+        "drug dispensing": 2,
+        "pharmaceutical care": 2,
+        "compounding": 2,
+        "pharmacotherapy": 3,
+        "drug interactions": 2
+    },
+    "Health Informatics": {
+        "electronic health records": 2,
+        "health data analysis": 3,
+        "medical coding": 2,
+        "telemedicine": 2,
+        "health it systems": 2
+    },
+    "Sports Medicine": {
+        "injury prevention": 2,
+        "sports rehabilitation": 2,
+        "biomechanics": 3,
+        "performance enhancement": 2,
+        "sports nutrition": 2
+    },
+    "Mechanical Engineering": {
+        "thermodynamics": 2,
+        "fluid mechanics": 2,
+        "machine design": 3,
+        "cad modeling": 2,
+        "finite element analysis": 3,
+        "manufacturing processes": 2
+    },
+    "Electrical Engineering": {
+        "circuit design": 2,
+        "power systems": 3,
+        "signal processing": 2,
+        "control systems": 3,
+        "embedded systems": 2,
+        "electronics": 2
+    },
+    "Civil Engineering": {
+        "structural analysis": 3,
+        "geotechnical engineering": 2,
+        "transportation engineering": 2,
+        "construction management": 2,
+        "hydraulics": 2,
+        "surveying": 1
+    },
+    "Aerospace Engineering": {
+        "aerodynamics": 3,
+        "flight dynamics": 2,
+        "propulsion systems": 3,
+        "avionics": 2,
+        "spacecraft design": 3,
+        "orbital mechanics": 2
+    },
+    "Biomedical Engineering": {
+        "medical imaging": 3,
+        "biomaterials": 2,
+        "prosthetics": 2,
+        "biomechanics": 3,
+        "tissue engineering": 3,
+        "bioinstrumentation": 2
+    },
+    "Chemical Engineering": {
+        "process design": 3,
+        "reaction engineering": 3,
+        "thermodynamics": 2,
+        "fluid mechanics": 2,
+        "process control": 2,
+        "mass transfer": 2
+    },
+    "Nuclear Engineering": {
+        "nuclear reactions": 3,
+        "radiation detection": 2,
+        "nuclear energy": 3,
+        "reactor design": 3,
+        "safety protocols": 2
+    },
+    "Environmental Engineering": {
+        "waste management": 2,
+        "water treatment": 3,
+        "air quality": 2,
+        "environmental impact assessment": 2,
+        "renewable energy": 3
+    },
+    "Industrial Engineering": {
+        "operations research": 3,
+        "supply chain management": 2,
+        "lean manufacturing": 2,
+        "quality control": 2,
+        "ergonomics": 2
+    },
+    "Software Engineering": {
+        "software design": 3,
+        "agile development": 2,
+        "version control": 2,
+        "testing": 2,
+        "software architecture": 3
+    },
+    "Petroleum Engineering": {
+        "reservoir engineering": 3,
+        "drilling technology": 2,
+        "production engineering": 2,
+        "petroleum geology": 2,
+        "well testing": 3
+    },
+    "Robotics Engineering": {
+        "robotic control systems": 3,
+        "sensor integration": 2,
+        "actuators": 2,
+        "machine vision": 3,
+        "robot programming": 2
+    },
+    "Marine Engineering": {
+        "ship design": 3,
+        "marine propulsion": 2,
+        "hydrodynamics": 2,
+        "offshore structures": 3,
+        "marine systems": 2
+    },
+    "Structural Engineering": {
+        "structural analysis": 3,
+        "seismic design": 2,
+        "bridge engineering": 2,
+        "finite element analysis": 3,
+        "structural dynamics": 2
+    },
+    "Mechatronics": {
+        "control systems": 3,
+        "sensors": 2,
+        "actuators": 2,
+        "embedded systems": 2,
+        "robotics": 3
+    },
+    "Astrobiology": {
+        "exoplanet research": 3,
+        "origin of life": 2,
+        "biosignatures": 3,
+        "planetary science": 2,
+        "astrobiochemistry": 2
+    },
+    "Paleontology": {
+        "fossil analysis": 2,
+        "evolutionary biology": 2,
+        "stratigraphic correlation": 3,
+        "paleobiology": 2,
+        "paleoecology": 2
+    },
+    "Genomics": {
+        "dna sequencing": 3,
+        "functional genomics": 2,
+        "epigenetics": 3,
+        "transcriptomics": 2,
+        "comparative genomics": 2
+    },
+    "Hydrology": {
+        "groundwater modeling": 3,
+        "surface water analysis": 2,
+        "water quality": 2,
+        "flood forecasting": 3,
+        "watershed management": 2
+    },
+    "Nuclear Physics": {
+        "particle physics": 3,
+        "nuclear reactions": 3,
+        "radiation detection": 2,
+        "quantum field theory": 3,
+        "nuclear energy": 2
+    },
+    "Geochemistry": {
+        "isotope analysis": 3,
+        "mineral chemistry": 2,
+        "geochemical modeling": 2,
+        "petrogenesis": 3,
+        "environmental geochemistry": 2
+    },
+    "Seismology": {
+        "earthquake analysis": 3,
+        "seismic imaging": 2,
+        "fault mechanics": 2,
+        "seismic hazard assessment": 3,
+        "wave propagation": 2
+    },
+    "Volcanology": {
+        "volcanic processes": 3,
+        "eruption prediction": 2,
+        "volcanic hazards": 2,
+        "geochemical analysis": 3,
+        "remote sensing": 2
+    },
+    "Ecology": {
+        "ecosystem dynamics": 2,
+        "biodiversity": 2,
+        "conservation biology": 3,
+        "population ecology": 2,
+        "community ecology": 2
+    },
+    "Microbiology": {
+        "bacterial genetics": 3,
+        "virology": 2,
+        "microbial ecology": 2,
+        "pathogenic microbiology": 3,
+        "antimicrobial resistance": 2
+    },
+    "Journalism": {
+        "investigative reporting": 3,
+        "news writing": 2,
+        "multimedia journalism": 2,
+        "media ethics": 2,
+        "data journalism": 3
+    },
+    "Cultural Studies": {
+        "media studies": 2,
+        "popular culture": 2,
+        "postcolonialism": 3,
+        "gender studies": 2,
+        "cultural theory": 3
+    },
+    "Religious Studies": {
+        "comparative religion": 2,
+        "theology": 2,
+        "religious history": 2,
+        "scriptural analysis": 3,
+        "philosophy of religion": 2
+    },
+    "Criminology": {
+        "crime analysis": 2,
+        "criminal profiling": 3,
+        "victimology": 2,
+        "forensic psychology": 3,
+        "penology": 2
+    },
+    "Urban Studies": {
+        "urban planning": 2,
+        "city design": 2,
+        "transportation planning": 2,
+        "urban sociology": 3,
+        "smart cities": 3
+    },
+    "Creative Direction": {
+        "brand storytelling": 3,
+        "art direction": 2,
+        "campaign planning": 2,
+        "visual identity": 3,
+        "creative strategy": 2
+    },
+    "Sound Design": {
+        "foley art": 2,
+        "sound synthesis": 3,
+        "audio editing": 2,
+        "soundscapes": 2,
+        "spatial audio": 3
+    },
+    "Game Art": {
+        "character design": 3,
+        "environment art": 2,
+        "texturing": 2,
+        "3d modeling": 3,
+        "concept art": 2
+    },
+    "Video Editing": {
+        "adobe premiere": 2,
+        "final cut pro": 2,
+        "color grading": 3,
+        "motion graphics": 2,
+        "video storytelling": 2
+    },
+    "Digital Art": {
+        "digital painting": 2,
+        "3d sculpting": 3,
+        "concept design": 2,
+        "procreate": 2,
+        "art software": 3
+    },
+    "Financial Planning": {
+        "budgeting": 2,
+        "investment strategies": 2,
+        "retirement planning": 3,
+        "tax planning": 2,
+        "wealth management":atalysis": 2
+    },
+    "Supply Chain Optimization": {
+        "logistics": 2,
+        "inventory control": 2,
+        "demand forecasting": 3,
+        "procurement": 2,
+        "supply chain analytics": 3
+    },
+    "Corporate Strategy": {
+        "business modeling": 2,
+        "competitive strategy": 3,
+        "swot analysis": 2,
+        "change management": 2,
+        "strategic planning": 3
+    },
+    "Auditing": {
+        "financial auditing": 3,
+        "internal controls": 2,
+        "compliance auditing": 2,
+        "forensic accounting": 3,
+        "risk assessment": 2
+    },
+    "Entrepreneurial Finance": {
+        "venture capital": 3,
+        "startup valuation": 2,
+        "financial forecasting": 2,
+        "equity financing": 3,
+        "crowdfunding": 2
+    },
+    "Epidemiology": {
+        "disease surveillance": 3,
+        "outbreak investigation": 2,
+        "biostatistics": 3,
+        "public health policy": 2,
+        "infectious diseases": 2
+    },
+    "Medical Imaging": {
+        "radiology": 3,
+        "mri": 2,
+        "ct scanning": 2,
+        "ultrasound": 2,
+        "image analysis": 3
+    },
+    "Occupational Therapy": {
+        "rehabilitation": 2,
+        "assistive devices": 2,
+        "patient assessment": 2,
+        "therapy planning": 3,
+        "ergonomics": 2
+    },
+    "Veterinary Medicine": {
+        "animal diagnostics": 3,
+        "surgery": 3,
+        "pharmacology": 2,
+        "preventive care": 2,
+        "zoonotic diseases": 2
+    },
+    "Clinical Research": {
+        "clinical trial design": 3,
+        "data analysis": 2,
+        "regulatory compliance": 2,
+        "patient recruitment": 2,
+        "ethics": 3
+    },
+    "Computational Social Science": {
+        "social network analysis": 3,
+        "big data": 2,
+        "computational modeling": 3,
+        "sentiment analysis": 2,
+        "data visualization": 2
+    },
+    "Digital Humanities": {
+        "text mining": 3,
+        "digital archives": 2,
+        "cultural analytics": 2,
+        "visualization": 2,
+        "digital storytelling": 3
+    },
+    "Neuroethics": {
+        "ethical issues": 2,
+        "brain-computer interfaces": 3,
+        "neurotechnology": 2,
+        "consent": 2,
+        "neuroethics policy": 3
+    },
+    "Quantum Machine Learning": {
+        "quantum algorithms": 3,
+        "machine learning models": 2,
+        "quantum data processing": 3,
+        "optimization": 2,
+        "quantum computing": 3
+    },
+    "Culinary Arts": {
+        "food preparation": 2,
+        "baking": 2,
+        "culinary techniques": 3,
+        "food safety": 2,
+        "menu planning": 2
+    },
+    "Horticulture": {
+        "plant cultivation": 2,
+        "landscape design": 2,
+        "soil management": 2,
+        "pest control": 2,
+        "greenhouse management": 3
+    },
+    "Automotive Technology": {
+        "engine repair": 2,
+        "diagnostics": 2,
+        "electrical systems": 2,
+        "vehicle maintenance": 2,
+        "hybrid technology": 3
+    },
+    "Carpentry": {
+        "woodworking": 2,
+        "joinery": 2,
+        "furniture making": 3,
+        "construction techniques": 2,
+        "finishing": 2
+    },
+    "Space Tourism": {
+        "spacecraft operations": 3,
+        "passenger safety": 2,
+        "orbital tourism": 3,
+        "space hospitality": 2,
+        "mission planning": 2
+    },
+    "Systems Engineering": {
+        "system design": 3,
+        "integration": 2,
+        "requirements analysis": 2,
+        "verification": 2,
+        "systems modeling": 3
+    },
+    "Automotive Engineering": {
+        "vehicle dynamics": 3,
+        "powertrain design": 2,
+        "automotive electronics": 2,
+        "safety systems": 2,
+        "hybrid technology": 3
+    },
+    "Mining Engineering": {
+        "mine planning": 3,
+        "mineral processing": 2,
+        "geomechanics": 2,
+        "mine safety": 2,
+        "environmental management": 3
+    },
+    "Aeronautical Engineering": {
+        "aircraft design": 3,
+        "aerodynamics": 2,
+        "propulsion": 3,
+        "flight testing": 2,
+        "avionics": 2
+    },
+    "Quantum Chemistry": {
+        "quantum modeling": 3,
+        "molecular dynamics": 2,
+        "computational chemistry": 3,
+        "spectroscopy": 2,
+        "reaction kinetics": 2
+    },
+    "Virology": {
+        "viral pathogenesis": 3,
+        "vaccine development": 2,
+        "antiviral therapies": 2,
+        "molecular virology": 3,
+        "epidemiology": 2
+    },
+    "Gender Studies": {
+        "feminist theory": 2,
+        "queer studies": 2,
+        "gender politics": 3,
+        "intersectionality": 2,
+        "gender history": 2
+    },
+    "Public Administration": {
+        "policy analysis": 3,
+        "public finance": 2,
+        "governance": 2,
+        "administrative law": 2,
+        "organizational theory": 3
+    },
+    "Typography": {
+        "font design": 2,
+        "typographic layout": 2,
+        "type theory": 3,
+        "digital typography": 2,
+        "print design": 2
+    },
+    "Art Conservation": {
+        "preservation techniques": 3,
+        "restoration": 2,
+        "art analysis": 2,
+        "conservation ethics": 2,
+        "materials science": 3
+    },
+    "Change Management": {
+        "organizational change": 3,
+        "stakeholder engagement": 2,
+        "change strategy": 2,
+        "resistance management": 2,
+        "leadership": 3
+    },
+    "Retail Analytics": {
+        "sales forecasting": 3,
+        "customer behavior": 2,
+        "inventory optimization": 2,
+        "pricing strategy": 2,
+        "data visualization": 3
+    },
+    "Investment Banking": {
+        "financial modeling": 3,
+        "mergers and acquisitions": 2,
+        "valuation": 3,
+        "capital markets": 2,
+        "deal structuring": 2
+    },
+    "Cardiology": {
+        "cardiac diagnostics": 3,
+        "interventional cardiology": 2,
+        "electrophysiology": 3,
+        "heart failure management": 2,
+        "imaging": 2
+    },
+    "Neurology": {
+        "neurological diagnostics": 3,
+        "neuroimaging": 2,
+        "stroke management": 3,
+        "epilepsy treatment": 2,
+        "neurophysiology": 2
+    },
+    "Environmental Informatics": {
+        "environmental data analysis": 3,
+        "gis": 2,
+        "remote sensing": 2,
+        "climate modeling": 3,
+        "data visualization": 2
+    },
+    "Plumbing": {
+        "pipe installation": 2,
+        "system maintenance": 2,
+        "plumbing codes": 2,
+        "water heating": 2,
+        "drainage systems": 3
+    },
+    "Welding": {
+        "arc welding": 2,
+        "mig welding": 2,
+        "tig welding": 3,
+        "weld inspection": 2,
+        "metal fabrication": 2
+    },
+    "Geotechnical Engineering": {
+        "soil mechanics": 3,
+        "foundation design": 2,
+        "slope stability": 2,
+        "geotechnical testing": 3,
+        "seismic analysis": 2
+    },
+    "Marine Biology": {
+        "marine ecology": 2,
+        "coral reef biology": 2,
+        "fisheries science": 3,
+        "oceanography": 2,
+        "marine conservation": 2
+    },
+    "International Relations": {
+        "diplomacy": 3,
+        "global governance": 2,
+        "conflict resolution": 2,
+        "international law": 3,
+        "foreign policy analysis": 2
+    },
+    "Graphic Design": {
+        "branding": 2,
+        "layout design": 2,
+        "digital illustration": 3,
+        "typography": 2,
+        "user interface design": 3
+    },
+    "Business Development": {
+        "market expansion": 3,
+        "partnership building": 2,
+        "sales strategy": 2,
+        "competitive analysis": 3,
+        "revenue growth": 2
+    },
+    "Immunology": {
+        "immune system dynamics": 3,
+        "vaccine development": 2,
+        "immunotherapy": 3,
+        "autoimmune diseases": 2,
+        "immunological research": 2
+    },
+    "Bioethics": {
+        "medical ethics": 2,
+        "research ethics": 3,
+        "genetic ethics": 2,
+        "clinical trial ethics": 2,
+        "healthcare policy": 3
+    },
+    "Renewable Energy Installation": {
+        "solar panel installation": 2,
+        "wind turbine maintenance": 2,
+        "energy storage systems": 3,
+        "grid integration": 2,
+        "safety protocols": 2
+    },
+    "Telecommunications Engineering": {
+        "network design": 3,
+        "wireless communication": 2,
+        "signal processing": 2,
+        "fiber optics": 3,
+        "telecom protocols": 2
+    },
+    "Agricultural Engineering": {
+        "irrigation systems": 2,
+        "farm machinery": 2,
+        "soil management": 2,
+        "precision agriculture": 3,
+        "sustainable farming": 2
+    },
+    "Bioengineering": {
+        "bioprocess engineering": 3,
+        "biomedical devices": 2,
+        "synthetic biology": 3,
+        "bioreactor design": 2,
+        "tissue engineering": 2
+    },
+    "Acoustical Engineering": {
+        "sound design": 3,
+        "noise control": 2,
+        "vibration analysis": 2,
+        "acoustic modeling": 3,
+        "audio systems": 2
+    },
+    "Control Systems Engineering": {
+        "feedback control": 3,
+        "system modeling": 2,
+        "pid controllers": 2,
+        "automation": 3,
+        "robotics control": 2
+    },
+    "Biochemistry": {
+        "enzyme kinetics": 3,
+        "metabolic pathways": 2,
+        "protein analysis": 2,
+        "molecular biology": 3,
+        "biochemical assays": 2
+    },
+    "Astrophysics": {
+        "stellar dynamics": 3,
+        "cosmology": 2,
+        "gravitational waves": 3,
+        "astrophysical simulations": 2,
+        "observational astronomy": 2
+    },
+    "Paleobiology": {
+        "fossil record analysis": 2,
+        "evolutionary patterns": 2,
+        "paleoecology": 3,
+        "biostratigraphy": 2,
+        "extinction events": 2
+    },
+    "Geophysics": {
+        "seismic exploration": 3,
+        "gravity surveys": 2,
+        "magnetic surveys": 2,
+        "geophysical modeling": 3,
+        "earth structure": 2
+    },
+    "Computational Physics": {
+        "numerical simulations": 3,
+        "quantum simulations": 2,
+        "fluid dynamics": 2,
+        "computational modeling": 3,
+        "data analysis": 2
+    },
+    "Archaeology": {
+        "excavation techniques": 2,
+        "artifact analysis": 2,
+        "cultural heritage": 3,
+        "archaeological theory": 2,
+        "remote sensing": 2
+    },
+    "Political Economy": {
+        "economic policy": 3,
+        "global markets": 2,
+        "trade theory": 2,
+        "political institutions": 3,
+        "development economics": 2
+    },
+    "Urban Planning": {
+        "land use planning": 2,
+        "transportation systems": 2,
+        "sustainable cities": 3,
+        "urban design": 2,
+        "community development": 2
+    },
+    "Ethnomusicology": {
+        "musical ethnography": 2,
+        "world music": 2,
+        "music theory": 3,
+        "cultural analysis": 2,
+        "performance studies": 2
+    },
+    "International Development": {
+        "development economics": 3,
+        "global health": 2,
+        "sustainable development": 2,
+        "aid policy": 3,
+        "community development": 2
+    },
+    "Visual Effects": {
+        "compositing": 3,
+        "motion capture": 2,
+        "3d animation": 2,
+        "vfx pipeline": 3,
+        "rendering": 2
+    },
+    "Sound Engineering": {
+        "audio mixing": 3,
+        "sound recording": 2,
+        "live sound": 2,
+        "audio post-production": 3,
+        "acoustics": 2
+    },
+    "Sculpture": {
+        "stone carving": 2,
+        "metal sculpture": 2,
+        "3d modeling": 3,
+        "installation art": 2,
+        "sculpture techniques": 2
+    },
+    "Fashion Technology": {
+        "smart textiles": 3,
+        "wearable technology": 2,
+        "fashion design": 2,
+        "textile innovation": 3,
+        "production processes": 2
+    },
+    "Industrial Design": {
+        "product design": 2,
+        "prototyping": 2,
+        "ergonomics": 3,
+        "material selection": 2,
+        "user-centered design": 3
+    },
+    "Marketing Strategy": {
+        "brand positioning": 3,
+        "market segmentation": 2,
+        "campaign strategy": 2,
+        "consumer behavior": 3,
+        "marketing analytics": 2
+    },
+    "Corporate Finance": {
+        "financial analysis": 3,
+        "capital budgeting": 2,
+        "mergers and acquisitions": 2,
+        "financial strategy": 3,
+        "risk management": 2
+    },
+    "Operations Research": {
+        "optimization models": 3,
+        "simulation": 2,
+        "decision analysis": 2,
+        "queuing theory": 3,
+        "linear programming": 2
+    },
+    "Accounting": {
+        "financial reporting": 3,
+        "tax accounting": 2,
+        "cost accounting": 2,
+        "auditing": 3,
+        "accounting software": 2
+    },
+    "Supply Chain Analytics": {
+        "predictive analytics": 3,
+        "logistics optimization": 2,
+        "demand planning": 2,
+        "supply chain modeling": 3,
+        "data integration": 2
+    },
+    "Pediatrics": {
+        "child diagnostics": 3,
+        "developmental care": 2,
+        "pediatric surgery": 2,
+        "immunization": 3,
+        "neonatal care": 2
+    },
+    "Psychiatry": {
+        "mental health diagnostics": 3,
+        "psychopharmacology": 2,
+        "psychotherapy": 3,
+        "addiction treatment": 2,
+        "psychiatric research": 2
+    },
+    "Radiology": {
+        "diagnostic imaging": 3,
+        "interventional radiology": 2,
+        "nuclear medicine": 2,
+        "image interpretation": 3,
+        "radiation safety": 2
+    },
+    "Anesthesiology": {
+        "anesthesia administration": 3,
+        "pain management": 2,
+        "critical care": 2,
+        "perioperative care": 3,
+        "patient monitoring": 2
+    },
+    "Geriatrics": {
+        "elderly care": 2,
+        "chronic disease management": 3,
+        "geriatric assessment": 2,
+        "palliative care": 2,
+        "aging research": 3
+    },
+    "Neuroeconomics": {
+        "decision-making models": 3,
+        "neuroimaging": 2,
+        "behavioral economics": 2,
+        "cognitive neuroscience": 3,
+        "experimental design": 2
+    },
+    "Digital Sociology": {
+        "digital culture": 2,
+        "social media analysis": 3,
+        "online communities": 2,
+        "digital inequality": 2,
+        "sociological theory": 3
+    },
+    "Computational Linguistics": {
+        "natural language processing": 3,
+        "syntax analysis": 2,
+        "semantic modeling": 2,
+        "machine translation": 3,
+        "text mining": 2
+    },
+    "Data Privacy": {
+        "data protection": 3,
+        "privacy regulations": 2,
+        "cybersecurity": 2,
+        "ethical data use": 3,
+        "privacy engineering": 2
+    },
+    "Aviation Maintenance": {
+        "aircraft repair": 2,
+        "avionics maintenance": 3,
+        "engine overhaul": 2,
+        "safety inspections": 2,
+        "regulatory compliance": 3
+    },
+    "Beekeeping": {
+        "hive management": 2,
+        "honey production": 2,
+        "pollination": 3,
+        "bee health": 2,
+        "apiary maintenance": 2
+    },
+    "Climate Engineering": {
+        "geoengineering": 3,
+        "carbon capture": 2,
+        "climate modeling": 2,
+        "renewable energy systems": 3,
+        "policy analysis": 2
+    },
+    "Fashion Photography": {
+        "studio lighting": 2,
+        "editorial photography": 3,
+        "photo retouching": 2,
+        "fashion styling": 2,
+        "portfolio development": 3
+    },
+    "Ceramics": {
+        "wheel throwing": 2,
+        "glazing techniques": 2,
+        "kiln firing": 3,
+        "ceramic design": 2,
+        "sculptural ceramics": 2
+    },
+    "Event Management": {
+        "event planning": 2,
+        "logistics coordination": 2,
+        "budget management": 3,
+        "vendor negotiation": 2,
+        "event marketing": 2
     }
 }
