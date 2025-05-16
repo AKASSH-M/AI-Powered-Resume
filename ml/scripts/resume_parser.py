@@ -31,40 +31,43 @@ class UniversalResumeParser:
         except Exception as e:
             raise Exception(f"Error extracting text from PDF: {str(e)}")
 
+ 
     def extract_personal_info(self) -> Dict[str, str | List[str]]:
-        """Extract personal information using regex and optional spacy NER."""
+        """Extract personal information using regex and optional spaCy NER."""
+        
         # Regex patterns
         email = re.search(r'[\w\.-]+@[\w\.-]+', self.text)
         phone = re.search(r'(\+?\d{1,3}[\s-]?)?(\(?\d{3,4}\)?[\s-]?)?\d{3}[\s-]?\d{4}', self.text)
         linkedin = re.search(r'(https?://)?(www\.)?linkedin\.com/in/[A-Za-z0-9\-_]+', self.text)
         github = re.search(r'(https?://)?(www\.)?github\.com/[A-Za-z0-9\-_]+', self.text)
+        
+        # Capture all links and exclude LinkedIn and GitHub
         other_links = re.findall(r'(https?://[^\s]+)', self.text)
         other_links = [link for link in other_links if 'linkedin' not in link.lower() and 'github' not in link.lower()]
-        address = re.search(r'\d+\s[A-Za-z\s]+,\s*[A-Za-z]+,\s*[A-Z]{2}\s*\d{5}', self.text)  # Improved address regex
-
-        # Name and address extraction with spacy (if available)
+        
+        # Address regex (simple US-style address)
+        address = re.search(r'\d+\s[A-Za-z\s]+,\s*[A-Za-z]+,\s*[A-Z]{2}\s*\d{5}', self.text)
+        
+        # Name and address extraction using spaCy
         name = ""
         address_from_ner = ""
-        if self.nlp:
-            doc = self.nlp(self.text)
-            for ent in doc.ents:
-                if ent.label_ == "PERSON" and not name:
-                    name = ent.text
-                elif ent.label_ in ("GPE", "LOC") and not address_from_ner:
-                    address_from_ner = ent.text
 
-        # Fallback to regex if spacy fails or is unavailable
+
+        # Fallback: Heuristic name detection from first few lines
         if not name:
             lines = self.text.strip().splitlines()
-            for line in lines[:10]:
+            for line in lines[:10]:  # limit to top few lines
                 line = line.strip()
-                if len(line.split()) <= 4 and line.isupper():  # Allow for middle initials
+                if not line or line.lower() in {"email", "e-mail", "contact", "phone", "address", "linkedin", "github" , "skills", "education", "experience", "projects", "certifications", "achievements", "languages", "summary", "objective"}:
+                    continue
+                if len(line.split()) <= 4 and line.isupper() and not re.search(r'\d', line):
                     name = line
                     break
                 elif re.match(r'^[A-Z][a-z]+(\s[A-Z]\.)?\s[A-Z][a-z]+$', line):
                     name = line
                     break
 
+        # Compile extracted information
         self.personal_info = {
             'name': name or "Not found",
             'email': email.group(0) if email else "",
@@ -72,8 +75,9 @@ class UniversalResumeParser:
             'linkedin': linkedin.group(0) if linkedin else "",
             'github': github.group(0) if github else "",
             'other_links': other_links,
-            'address': address.group(0) if address else address_from_ner
+            'address': address.group(0) if address else address_from_ner or ""
         }
+        
         return self.personal_info
 
     def split_into_sections(self) -> Dict[str, str]:
@@ -100,11 +104,12 @@ class UniversalResumeParser:
 
     def print_all_objects(self,printer = False):
         """Print extracted personal info and sections."""
-        print("----- obj1: Personal Info -----")
+        # print("----- obj1: Personal Info -----")
+        self.personal_info_text = ""
         self.personal_info_obj = self.extract_personal_info()
         for k, v in self.personal_info_obj.items():
                 if v:
-                    print(f"{k}: {v}")
+                    self.personal_info_text += f"{k}: {v}\n"
         if printer:
             print("\n----- Sectional Info (obj2 to objN) -----")
             section_map = self.split_into_sections()
