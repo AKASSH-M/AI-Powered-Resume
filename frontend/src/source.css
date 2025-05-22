@@ -1,0 +1,44 @@
+/* source.css */
+
+.source-section {
+  padding: 100px 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.source-container {
+  max-width: 800px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 0 15px rgba(0, 255, 204, 0.2);
+}
+
+.source-container h2 {
+  font-size: 2rem;
+  color: #00ffcc;
+  margin-bottom: 20px;
+}
+
+.source-container p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.source-link {
+  display: inline-block;
+  background-color: #00ffcc;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.source-link:hover {
+  background-color: #00ddb0;
+}

@@ -1,0 +1,33 @@
+section{
+    padding: 100px 20px;    
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display : felx;
+    background-color: rgba(0,0, 0, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+    
+    box-shadow: 0 0 15px rgba(0, 255, 204, 0.2);
+}
+
+.container h2{
+    text-align: center;
+    color: #00ffcc;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.container p{
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+a{
+    color: #00ffcc;
+    text-decoration: none;
+    font-weight: bold;
+}

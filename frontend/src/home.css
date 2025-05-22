@@ -1,0 +1,92 @@
+/* home.css */
+
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 20px;
+  min-height: 50vh;
+}
+
+.home-container {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 0 15px rgba(0, 255, 204, 0.3);
+  color: white;
+}
+
+.home-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #00ffcc;
+}
+
+.home-container p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+
+input[type="file"] {
+  display: none;
+}
+
+.upload-label {
+  display: inline-block;
+  background: linear-gradient(135deg, #ffffff, #e0f7f5);
+  color: black;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  margin-right: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 255, 204, 0.2);
+}
+
+.upload-label:hover {
+  background: linear-gradient(135deg, #f0ffff, #ccf5f2);
+  transform: scale(1.05);
+}
+
+/* Optional - matches analyze button style */
+.analyze-btn {
+  background-color: #00ffcc;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  margin-left: 3px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  box-shadow: 0 4px 12px rgba(0, 255, 204, 0.3);
+}
+
+.analyze-btn:hover {
+  background-color: #00ddb0;
+  transform: scale(1.05);
+}
+
+
+.analyze-btn {
+  background-color: #00ffcc;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  margin-left: 3px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.analyze-btn:hover {
+  background-color: #00ddb0;
+}
